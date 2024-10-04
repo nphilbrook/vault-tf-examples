@@ -5,6 +5,6 @@ Vault enterprise server with namespaces:
     * app1
         * kv engine mounted at `kv`
     * app2
-        * kv engine emounted at `kv`
+        * kv engine mounted at `kv`
 
 Specify `VAULT_ADDR` and `VAULT_TOKEN` on the command line
